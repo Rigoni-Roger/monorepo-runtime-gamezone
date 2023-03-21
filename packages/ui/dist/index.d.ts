@@ -1,3 +1,3 @@
-import * as React from 'react';
 export * from './useAppShell';
 export * from './Shell';
+//# sourceMappingURL=index.d.ts.map

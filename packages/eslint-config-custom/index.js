@@ -3,9 +3,12 @@ module.exports = {
   rules: {
     "@next/next/no-html-link-for-pages": "off",
   },
-  parserOptions: {
+};
+
+{/**
+parserOptions: {
     babelOptions: {
       presets: [require.resolve("next/babel")],
     },
   },
-};
+*/}
